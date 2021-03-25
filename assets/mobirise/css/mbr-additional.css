@@ -2644,6 +2644,26 @@ a {
     padding: 2rem;
   }
 }
+.cid-ssDGcbzv4m {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-ssDGcbzv4m .row {
+  flex-direction: row-reverse;
+}
+.cid-ssDGcbzv4m .video-wrapper iframe {
+  width: 100%;
+}
+.cid-ssDGcbzv4m .mbr-section-title,
+.cid-ssDGcbzv4m .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-ssDGcbzv4m .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-ssoMhJ8oQ3 {
   padding-top: 2rem;
   padding-bottom: 2rem;
