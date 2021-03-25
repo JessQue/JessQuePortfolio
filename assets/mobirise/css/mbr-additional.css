@@ -2645,8 +2645,8 @@ a {
   }
 }
 .cid-ssDGcbzv4m {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-ssDGcbzv4m .row {
@@ -2663,6 +2663,12 @@ a {
   .cid-ssDGcbzv4m .text-wrapper {
     padding: 2rem;
   }
+}
+.cid-ssDGcbzv4m .mbr-text {
+  text-align: right;
+}
+.cid-ssDGcbzv4m .mbr-section-subtitle {
+  text-align: right;
 }
 .cid-ssoMhJ8oQ3 {
   padding-top: 2rem;
