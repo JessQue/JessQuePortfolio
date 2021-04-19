@@ -2789,13 +2789,16 @@ a {
 .cid-suWToEBxb1 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #22a5e5;
 }
 .cid-suWToEBxb1 .line {
-  background-color: #22a5e5;
+  background-color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
+}
+.cid-suWToEBxb1 .mbr-text {
+  color: #ffffff;
 }
 .cid-suWTsh0L6Z {
   padding-top: 1rem;
@@ -2820,7 +2823,7 @@ a {
   background-color: #ffffff;
 }
 .cid-suWEF9nxLD .line {
-  background-color: #40b0bf;
+  background-color: #22a5e5;
   align: center;
   height: 2px;
   margin: 0 auto;
