@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jessica Quejano | My Porfolio",
-    "currentPage": "WhatICanDo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3964,7 +3964,7 @@
         }
       ]
     },
-    "WhatICanDo.html": {
+    "page1.html": {
       "settings": {
         "title": "What I Can Do",
         "order": 2,
